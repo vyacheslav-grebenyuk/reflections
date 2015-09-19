@@ -28,6 +28,8 @@ organized? How would branches help?
 	all other changes of others developers.
 
 How do the diagrams help you visualize the branch structure?
+	By showing the graph structure of branches, their parent and all commits belonged
+	to those brahcnes.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
