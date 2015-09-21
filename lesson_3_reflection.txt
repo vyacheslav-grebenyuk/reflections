@@ -2,4 +2,14 @@ When would you want to use a remote repository rather than keeping all your work
       When I want to share my project with other people to show my results or to contribute
       together.
       
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+      Forks is a copy of repository at GitHub made by another contributor for his/her own goals.
+      It doesn't connect to the original project.
+      Clones is local or remote copies of repository in one contributor profile. They can be synchronized.
+      Branches are the different lines of evolution of one repository.
+      When I want to start some new project based on the existing one by another contributor
+      I have to fork.
+      Cloning is for synchronizing my repositories at different working places (computers).
+      Branching is for introducing some another (different or experimental) ideas to current
+      repository (project).
 
