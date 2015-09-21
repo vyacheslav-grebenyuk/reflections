@@ -13,3 +13,6 @@ Describe the differences between forks, clones, and branches. When would you use
       Branching is for introducing some another (different or experimental) ideas to current
       repository (project).
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+      It is neccessary for having no problems with merging commits stored local and remote
+      in case of many contributors work with the same branch
