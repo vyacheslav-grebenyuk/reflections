@@ -39,3 +39,7 @@ the diagram the way we do?
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+	Pros We do not need to remeber what changed and always will have good results
+	of merging.
+	Cons In case of changes the same file and the same lines without of manually accepting
+	what change must be put in the final merged branch.
